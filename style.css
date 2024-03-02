@@ -1,0 +1,15 @@
+
+.minigame{
+    margin-left: 50vw;
+    margin-top: 50px;
+}
+.div {
+
+    width: 300px;
+    height: 400px;
+    background-color: rgba(90, 93, 94, 0.712);
+}
+
+.b1{
+    border-radius: 10px;
+}
